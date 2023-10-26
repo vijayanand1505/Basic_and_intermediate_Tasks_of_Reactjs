@@ -9,4 +9,4 @@ Beginner level tasks, intermediate tasks and CRUD Operations in React js is perf
 5. text auto typing and erasing using Array
 6. image changing using the button click.
 7. Crud operation using Mock Api is performed 
- 
+
